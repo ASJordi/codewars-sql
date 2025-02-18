@@ -18,6 +18,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
     <summary>8 kyu</summary>
         <ol type="1">
         <li><a href="/kyu8/EvenOrOdd.sql">Even or Odd</a> - <a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/">↗</a></li>
+        <li><a href="/kyu8/StringRepeat.sql">String Repeat</a> - <a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e">↗</a></li>
         </ol>
 </details>
 
