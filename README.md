@@ -19,6 +19,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <ol type="1">
         <li><a href="/kyu8/EvenOrOdd.sql">Even or Odd</a> - <a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/">↗</a></li>
         <li><a href="/kyu8/StringRepeat.sql">String Repeat</a> - <a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e">↗</a></li>
+        <li><a href="/kyu8/ConvertBooleanValuesToStringsYesOrNo.sql">Convert boolean values to strings 'Yes' or 'No'</a> - <a href="https://www.codewars.com/kata/53369039d7ab3ac506000467">↗</a></li>
         </ol>
 </details>
 
