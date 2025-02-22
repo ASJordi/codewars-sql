@@ -21,7 +21,8 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/StringRepeat.sql">String Repeat</a> - <a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e">↗</a></li>
         <li><a href="/kyu8/ConvertBooleanValuesToStringsYesOrNo.sql">Convert boolean values to strings 'Yes' or 'No'</a> - <a href="https://www.codewars.com/kata/53369039d7ab3ac506000467">↗</a></li>
         <li><a href="/kyu8/CountOddNumbersBelowN.sql">Count Odd Numbers Below N</a> - <a href="https://www.codewars.com/kata/59342039eb450e39970000a6">↗</a></li>
-        <li><a href="/kyu8/CountByX.sql">Count By X</a> - <a href="hv">↗</a></li>
+        <li><a href="/kyu8/CountByX.sql">Count By X</a> - <a href="https://www.codewars.com/kata/5513795bd3fafb56c200049e">↗</a></li>
+        <li><a href="/kyu8/DalmatiaSquashTheBugsNotTheDogs.sql">101 Dalmatians - squash the bugs, not the dogs!</a> - <a href="https://www.codewars.com/kata/56f6919a6b88de18ff000b36">↗</a></li>
         </ol>
 </details>
 
