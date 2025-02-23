@@ -23,6 +23,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/CountOddNumbersBelowN.sql">Count Odd Numbers Below N</a> - <a href="https://www.codewars.com/kata/59342039eb450e39970000a6">↗</a></li>
         <li><a href="/kyu8/CountByX.sql">Count By X</a> - <a href="https://www.codewars.com/kata/5513795bd3fafb56c200049e">↗</a></li>
         <li><a href="/kyu8/DalmatiaSquashTheBugsNotTheDogs.sql">101 Dalmatians - squash the bugs, not the dogs!</a> - <a href="https://www.codewars.com/kata/56f6919a6b88de18ff000b36">↗</a></li>
+        <li><a href="/kyu8/AdultsOnly.sql">Adults only (SQL for Beginners #1)</a> - <a href="https://www.codewars.com/kata/590a95eede09f87472000213">↗</a></li>
         </ol>
 </details>
 
