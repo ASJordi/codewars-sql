@@ -25,6 +25,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/DalmatiaSquashTheBugsNotTheDogs.sql">101 Dalmatians - squash the bugs, not the dogs!</a> - <a href="https://www.codewars.com/kata/56f6919a6b88de18ff000b36">↗</a></li>
         <li><a href="/kyu8/AdultsOnly.sql">Adults only (SQL for Beginners #1)</a> - <a href="https://www.codewars.com/kata/590a95eede09f87472000213">↗</a></li>
         <li><a href="/kyu8/CheckForFactor.sql">Grasshopper - Check for factor</a> - <a href="https://www.codewars.com/kata/55cbc3586671f6aa070000fb">↗</a></li>
+        <li><a href="/kyu8/CollectTuition.sql">Collect Tuition (SQL for Beginners #4)</a> - <a href="https://www.codewars.com/kata/5910b0d378cc2ba91400000b">↗</a></li>
         </ol>
 </details>
 
