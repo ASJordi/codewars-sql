@@ -27,6 +27,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/CheckForFactor.sql">Grasshopper - Check for factor</a> - <a href="https://www.codewars.com/kata/55cbc3586671f6aa070000fb">↗</a></li>
         <li><a href="/kyu8/CollectTuition.sql">Collect Tuition (SQL for Beginners #4)</a> - <a href="https://www.codewars.com/kata/5910b0d378cc2ba91400000b">↗</a></li>
         <li><a href="/kyu8/Clock.sql">Beginner Series #2 Clock</a> - <a href="https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a">↗</a></li>
+        <li><a href="/kyu8/ConvertToHexadecimal.sql">Easy SQL: Convert to Hexadecimal</a> - <a href="https://www.codewars.com/kata/594a50bafd3b7031c1000013">↗</a></li>
         </ol>
 </details>
 
