@@ -29,6 +29,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/Clock.sql">Beginner Series #2 Clock</a> - <a href="https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a">↗</a></li>
         <li><a href="/kyu8/ConvertToHexadecimal.sql">Easy SQL: Convert to Hexadecimal</a> - <a href="https://www.codewars.com/kata/594a50bafd3b7031c1000013">↗</a></li>
         <li><a href="/kyu8/CenturyFromYear.sql">Century From Year</a> - <a href="https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097">↗</a></li>
+        <li><a href="/kyu8/CountTheNumberOfCubesWithPaintOn.sql">Count the number of cubes with paint on</a> - <a href="https://www.codewars.com/kata/5763bb0af716cad8fb000580">↗</a></li>
         </ol>
 </details>
 
