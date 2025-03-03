@@ -31,6 +31,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/CenturyFromYear.sql">Century From Year</a> - <a href="https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097">↗</a></li>
         <li><a href="/kyu8/CountTheNumberOfCubesWithPaintOn.sql">Count the number of cubes with paint on</a> - <a href="https://www.codewars.com/kata/5763bb0af716cad8fb000580">↗</a></li>
         <li><a href="/kyu8/EasySQLOrdering.sql">Easy SQL - Ordering</a> - <a href="https://www.codewars.com/kata/593ed37c93350098d600001d">↗</a></li>
+        <li><a href="/kyu8/ExpressionsMatter.sql">Expressions Matter</a> - <a href="https://www.codewars.com/kata/5ae62fcf252e66d44d00008e">↗</a></li>
         </ol>
 </details>
 
