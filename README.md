@@ -34,6 +34,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/ExpressionsMatter.sql">Expressions Matter</a> - <a href="https://www.codewars.com/kata/5ae62fcf252e66d44d00008e">↗</a></li>
         <li><a href="/kyu8/FakeBinary.sql">Fake Binary</a> - <a href="https://www.codewars.com/kata/57eae65a4321032ce000002d/">↗</a></li>
         <li><a href="/kyu8/FindAllActiveStudents.sql">1. Find all active students</a> - <a href="https://www.codewars.com/kata/5809b9ef88b750ab180001ec">↗</a></li>
+        <li><a href="/kyu8/GetNthEvenNumber.sql">Get Nth Even Number</a> - <a href="https://www.codewars.com/kata/5933a1f8552bc2750a0000ed">↗</a></li>
         </ol>
 </details>
 
