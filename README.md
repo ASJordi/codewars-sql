@@ -37,6 +37,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/GetNthEvenNumber.sql">Get Nth Even Number</a> - <a href="https://www.codewars.com/kata/5933a1f8552bc2750a0000ed">↗</a></li>
         <li><a href="/kyu8/GrasshopperSummation.sql">Grasshopper Summation</a> - <a href="https://www.codewars.com/kata/55d24f55d7dd296eb9000030">↗</a></li>
         <li><a href="/kyu8/IsItAPalindrome.sql">Is it a palindrome?</a> - <a href="https://www.codewars.com/kata/57a1fd2ce298a731b20006a4">↗</a></li>
+        <li><a href="/kyu8/IsNDivisibleByXAndY.sql">Is n divisible by x and y?</a> - <a href="https://www.codewars.com/kata/5545f109004975ea66000086">↗</a></li>
         </ol>
 </details>
 
