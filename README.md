@@ -39,6 +39,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/IsItAPalindrome.sql">Is it a palindrome?</a> - <a href="https://www.codewars.com/kata/57a1fd2ce298a731b20006a4">↗</a></li>
         <li><a href="/kyu8/IsNDivisibleByXAndY.sql">Is n divisible by x and y?</a> - <a href="https://www.codewars.com/kata/5545f109004975ea66000086">↗</a></li>
         <li><a href="/kyu8/KeepHydrated.sql">Keep Hydrated</a> - <a href="https://www.codewars.com/kata/582cb0224e56e068d800003c">↗</a></li>
+        <li><a href="/kyu8/Lowercase.sql">Easy SQL: LowerCase</a> - <a href="https://www.codewars.com/kata/594800ba6fb152624300006d">↗</a></li>
         </ol>
 </details>
 
