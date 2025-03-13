@@ -41,6 +41,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/KeepHydrated.sql">Keep Hydrated</a> - <a href="https://www.codewars.com/kata/582cb0224e56e068d800003c">↗</a></li>
         <li><a href="/kyu8/Lowercase.sql">Easy SQL: LowerCase</a> - <a href="https://www.codewars.com/kata/594800ba6fb152624300006d">↗</a></li>
         <li><a href="/kyu8/MakeUpperCase.sql">Make UpperCase</a> - <a href="https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7">↗</a></li>
+        <li><a href="/kyu8/MessiGoalsFunction.sql">Grasshopper - Messi goals function</a> - <a href="https://www.codewars.com/kata/55f73be6e12baaa5900000d4">↗</a></li>
         </ol>
 </details>
 
