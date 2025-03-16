@@ -44,6 +44,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/MessiGoalsFunction.sql">Grasshopper - Messi goals function</a> - <a href="https://www.codewars.com/kata/55f73be6e12baaa5900000d4">↗</a></li>
         <li><a href="/kyu8/Mod.sql">SQL Basics: Mod</a> - <a href="https://www.codewars.com/kata/594a9592704e4d21bc000131">↗</a></li>
         <li><a href="/kyu8/Multiply.sql">Multiply</a> - <a href="https://www.codewars.com/kata/50654ddff44f800200000004">↗</a></li>
+        <li><a href="/kyu8/NeverVisitA.sql">Never visit a . . . !?</a> - <a href="https://www.codewars.com/kata/56c5847f27be2c3db20009c3">↗</a></li>
         </ol>
 </details>
 
