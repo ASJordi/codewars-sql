@@ -45,6 +45,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/Mod.sql">SQL Basics: Mod</a> - <a href="https://www.codewars.com/kata/594a9592704e4d21bc000131">↗</a></li>
         <li><a href="/kyu8/Multiply.sql">Multiply</a> - <a href="https://www.codewars.com/kata/50654ddff44f800200000004">↗</a></li>
         <li><a href="/kyu8/NeverVisitA.sql">Never visit a . . . !?</a> - <a href="https://www.codewars.com/kata/56c5847f27be2c3db20009c3">↗</a></li>
+        <li><a href="/kyu8/OnTheCanadianBorder.sql">On the Canadian Border (SQL for Beginners #2)</a> - <a href="https://www.codewars.com/kata/590ba881fe13cfdcc20001b4">↗</a></li>
         </ol>
 </details>
 
