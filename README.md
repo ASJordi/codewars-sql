@@ -48,6 +48,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/OnTheCanadianBorder.sql">On the Canadian Border (SQL for Beginners #2)</a> - <a href="https://www.codewars.com/kata/590ba881fe13cfdcc20001b4">↗</a></li>
         <li><a href="/kyu8/OppositeNumber.sql">Opposite Number</a> - <a href="https://www.codewars.com/kata/56dec885c54a926dcd001095">↗</a></li>
         <li><a href="/kyu8/OppositesAttract.sql">Opposites Attract</a> - <a href="https://www.codewars.com/kata/555086d53eac039a2a000083">↗</a></li>
+        <li><a href="/kyu8/QuarterOfTheYear.sql">Quarter of the year</a> - <a href="https://www.codewars.com/kata/5ce9c1000bab0b001134f5af">↗</a></li>
         </ol>
 </details>
 
