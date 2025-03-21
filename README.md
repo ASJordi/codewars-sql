@@ -49,6 +49,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/OppositeNumber.sql">Opposite Number</a> - <a href="https://www.codewars.com/kata/56dec885c54a926dcd001095">↗</a></li>
         <li><a href="/kyu8/OppositesAttract.sql">Opposites Attract</a> - <a href="https://www.codewars.com/kata/555086d53eac039a2a000083">↗</a></li>
         <li><a href="/kyu8/QuarterOfTheYear.sql">Quarter of the year</a> - <a href="https://www.codewars.com/kata/5ce9c1000bab0b001134f5af">↗</a></li>
+        <li><a href="/kyu8/RegisterForTheParty.sql">Register for the Party (SQL for Beginners #3)</a> - <a href="https://www.codewars.com/kata/590cc86f7557c0494000007e">↗</a></li>
         </ol>
 </details>
 
