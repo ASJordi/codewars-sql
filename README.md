@@ -51,6 +51,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/QuarterOfTheYear.sql">Quarter of the year</a> - <a href="https://www.codewars.com/kata/5ce9c1000bab0b001134f5af">↗</a></li>
         <li><a href="/kyu8/RegisterForTheParty.sql">Register for the Party (SQL for Beginners #3)</a> - <a href="https://www.codewars.com/kata/590cc86f7557c0494000007e">↗</a></li>
         <li><a href="/kyu8/RemoveExclamationMarks.sql">Remove Exclamation Marks</a> - <a href="https://www.codewars.com/kata/57a0885cbb9944e24c00008e">↗</a></li>
+        <li><a href="/kyu8/RemoveFirstAndLastCharacter.sql">Remove First And Last Character</a> - <a href="https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0">↗</a></li>
         </ol>
 </details>
 
