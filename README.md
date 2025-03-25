@@ -53,6 +53,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/RemoveExclamationMarks.sql">Remove Exclamation Marks</a> - <a href="https://www.codewars.com/kata/57a0885cbb9944e24c00008e">↗</a></li>
         <li><a href="/kyu8/RemoveFirstAndLastCharacter.sql">Remove First And Last Character</a> - <a href="https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0">↗</a></li>
         <li><a href="/kyu8/RemoveStringSpaces.sql">Remove String Spaces</a> - <a href="https://www.codewars.com/kata/57eae20f5500ad98e50002c5">↗</a></li>
+        <li><a href="/kyu8/ReturningStrings.sql">Returning Strings</a> - <a href="https://www.codewars.com/kata/55a70521798b14d4750000a4">↗</a></li>
         </ol>
 </details>
 
