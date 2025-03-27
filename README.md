@@ -55,6 +55,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/RemoveStringSpaces.sql">Remove String Spaces</a> - <a href="https://www.codewars.com/kata/57eae20f5500ad98e50002c5">↗</a></li>
         <li><a href="/kyu8/ReturningStrings.sql">Returning Strings</a> - <a href="https://www.codewars.com/kata/55a70521798b14d4750000a4">↗</a></li>
         <li><a href="/kyu8/ReversedStrings.sql">Reversed Strings</a> - <a href="https://www.codewars.com/kata/5168bb5dfe9a00b126000018">↗</a></li>
+        <li><a href="/kyu8/RoundingDecimals.sql">Easy SQL: Rounding Decimals</a> - <a href="https://www.codewars.com/kata/594a6133704e4daf5d00003d">↗</a></li>
         </ol>
 </details>
 
