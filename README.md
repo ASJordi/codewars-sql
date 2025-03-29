@@ -57,6 +57,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/ReversedStrings.sql">Reversed Strings</a> - <a href="https://www.codewars.com/kata/5168bb5dfe9a00b126000018">↗</a></li>
         <li><a href="/kyu8/RoundingDecimals.sql">Easy SQL: Rounding Decimals</a> - <a href="https://www.codewars.com/kata/594a6133704e4daf5d00003d">↗</a></li>
         <li><a href="/kyu8/SchoolPaperwork.sql">Beginner Series #1 School Paperwork</a> - <a href="https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd">↗</a></li>
+        <li><a href="/kyu8/SelectColumns.sql">SQL Grasshopper: Select Columns</a> - <a href="https://www.codewars.com/kata/582365c18917435ab3000020">↗</a></li>
         </ol>
 </details>
 
