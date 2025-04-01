@@ -60,6 +60,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/SelectColumns.sql">SQL Grasshopper: Select Columns</a> - <a href="https://www.codewars.com/kata/582365c18917435ab3000020">↗</a></li>
         <li><a href="/kyu8/SimpleDistinct.sql">SQL Basics: Simple DISTINCT</a> - <a href="https://www.codewars.com/kata/58111670e10b53be31000108">↗</a></li>
         <li><a href="/kyu8/SimpleMinMax.sql">SQL Basics: Simple MIN / MAX</a> - <a href="https://www.codewars.com/kata/581113dce10b531b1d0000bd">↗</a></li>
+        <li><a href="/kyu8/SimpleMultiplication.sql">Simple Multiplication</a> - <a href="https://www.codewars.com/kata/583710ccaa6717322c000105">↗</a></li>
         </ol>
 </details>
 
