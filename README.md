@@ -61,6 +61,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/SimpleDistinct.sql">SQL Basics: Simple DISTINCT</a> - <a href="https://www.codewars.com/kata/58111670e10b53be31000108">↗</a></li>
         <li><a href="/kyu8/SimpleMinMax.sql">SQL Basics: Simple MIN / MAX</a> - <a href="https://www.codewars.com/kata/581113dce10b531b1d0000bd">↗</a></li>
         <li><a href="/kyu8/SimpleMultiplication.sql">Simple Multiplication</a> - <a href="https://www.codewars.com/kata/583710ccaa6717322c000105">↗</a></li>
+        <li><a href="/kyu8/SimpleSum.sql">SQL Basics: Simple SUM</a> - <a href="https://www.codewars.com/kata/58110da0009b4f7ef80000ad">↗</a></li>
         </ol>
 </details>
 
