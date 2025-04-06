@@ -65,6 +65,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/SimpleWhereAndOrderBy.sql">SQL Basics: Simple WHERE and ORDER BY</a> - <a href="https://www.codewars.com/kata/5809508cc47d327c12000084">↗</a></li>
         <li><a href="/kyu8/SquareRootAndLog.sql">Easy SQL: Square Root and Log</a> - <a href="https://www.codewars.com/kata/594a691720ac16a544000075">↗</a></li>
         <li><a href="/kyu8/SquaringAnArgument.sql">Function 2 - squaring an argument</a> - <a href="https://www.codewars.com/kata/523b623152af8a30c6000027">↗</a></li>
+        <li><a href="/kyu8/SurfaceAreaAndVolumeOfABox.sql">Surface Area and Volume of a Box</a> - <a href="https://www.codewars.com/kata/565f5825379664a26b00007c">↗</a></li>
         </ol>
 </details>
 
