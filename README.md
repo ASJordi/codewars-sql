@@ -67,6 +67,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/SquaringAnArgument.sql">Function 2 - squaring an argument</a> - <a href="https://www.codewars.com/kata/523b623152af8a30c6000027">↗</a></li>
         <li><a href="/kyu8/SurfaceAreaAndVolumeOfABox.sql">Surface Area and Volume of a Box</a> - <a href="https://www.codewars.com/kata/565f5825379664a26b00007c">↗</a></li>
         <li><a href="/kyu8/TerminalGameMoveFunction.sql">Grasshopper - Terminal game move function</a> - <a href="https://www.codewars.com/kata/563a631f7cbbc236cf0000c2">↗</a></li>
+        <li><a href="/kyu8/ThirdAngleOfATriangle.sql">Third Angle of a Triangle</a> - <a href="https://www.codewars.com/kata/5a023c426975981341000014">↗</a></li>
         </ol>
 </details>
 
