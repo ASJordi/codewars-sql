@@ -71,6 +71,12 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu8/WillYouMakeIt.sql">Will you make it?</a> - <a href="https://www.codewars.com/kata/5861d28f124b35723e00005e">↗</a></li>
         </ol>
 </details>
+<details>
+    <summary>7 kyu</summary>
+    <ol type="1">
+        <li><a href="/kyu7/AbsoluteValueAndLogToBase.sql">Easy SQL: Absolute Value and Log to Base</a> - <a href="https://www.codewars.com/kata/594a8f2f7ca3c692a4000041">↗</a></li>
+    </ol>
+</details>
 
 ## Contribuciones :handshake:
 
