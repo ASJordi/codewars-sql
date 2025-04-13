@@ -77,6 +77,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/AbsoluteValueAndLogToBase.sql">Easy SQL: Absolute Value and Log to Base</a> - <a href="https://www.codewars.com/kata/594a8f2f7ca3c692a4000041">↗</a></li>
         <li><a href="/kyu7/AsciiConverter.sql">Easy SQL: ASCII Converter</a> - <a href="https://www.codewars.com/kata/594804a218e96caa8d00051b">↗</a></li>
         <li><a href="/kyu7/BestSellingBooks.sql">Best-Selling Books (SQL for Beginners #5)</a> - <a href="https://www.codewars.com/kata/591127cbe8b9fb05bd00004b">↗</a></li>
+        <li><a href="/kyu7/BitLength.sql">Easy SQL: Bit Length</a> - <a href="https://www.codewars.com/kata/594900e16fd782a607000059">↗</a></li>
     </ol>
 </details>
 
