@@ -79,6 +79,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/BestSellingBooks.sql">Best-Selling Books (SQL for Beginners #5)</a> - <a href="https://www.codewars.com/kata/591127cbe8b9fb05bd00004b">↗</a></li>
         <li><a href="/kyu7/BitLength.sql">Easy SQL: Bit Length</a> - <a href="https://www.codewars.com/kata/594900e16fd782a607000059">↗</a></li>
         <li><a href="/kyu7/BytesInStringFromInts.sql">SQL: Bytes in String from Ints</a> - <a href="https://www.codewars.com/kata/59491429952ac97ad9000106">↗</a></li>
+        <li><a href="/kyu7/CategorizeAndCountJobApplicationsBasedOnStatus.sql">Categorize and Count Job Applications Based on Status</a> - <a href="https://www.codewars.com/kata/66acd927c487bb5f867a38c5">↗</a></li>
     </ol>
 </details>
 
