@@ -83,6 +83,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/CenteredPentagonalNumber.sql">Centered pentagonal number</a> - <a href="https://www.codewars.com/kata/5fb856190d5230001d48d721">↗</a></li>
         <li><a href="/kyu7/ClassifyingTransactionsByNumberOfSuppliers.sql">Classifying Transactions by Number of Suppliers</a> - <a href="https://www.codewars.com/kata/64b53243d44a86004b063466">↗</a></li>
         <li><a href="/kyu7/ComplementaryDna.sql">Complementary DNA</a> - <a href="https://www.codewars.com/kata/554e4a2f232cdd87d9000038">↗</a></li>
+        <li><a href="/kyu7/ComplementaryDna.sql">SQL: Concatenating Columns</a> - <a href="https://www.codewars.com/kata/59440034e94fae05b2000073ss">↗</a></li>
     </ol>
 </details>
 
