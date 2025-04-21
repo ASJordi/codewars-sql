@@ -85,6 +85,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/ComplementaryDna.sql">Complementary DNA</a> - <a href="https://www.codewars.com/kata/554e4a2f232cdd87d9000038">↗</a></li>
         <li><a href="/kyu7/ConcatenatingColumns.sql">SQL: Concatenating Columns</a> - <a href="https://www.codewars.com/kata/59440034e94fae05b2000073">↗</a></li>
         <li><a href="/kyu7/CountingAndGrouping.sql">Easy SQL: Counting and Grouping</a> - <a href="https://www.codewars.com/kata/594633020a561e329a0000a2">↗</a></li>
+        <li><a href="/kyu7/CountriesCapitalsForTriviaNight.sql">Countries Capitals for Trivia Night (SQL for Beginners #6)</a> - <a href="https://www.codewars.com/kata/5e5f09dc0a17be0023920f6f">↗</a></li>
     </ol>
 </details>
 
