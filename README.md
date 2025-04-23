@@ -87,6 +87,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/CountingAndGrouping.sql">Easy SQL: Counting and Grouping</a> - <a href="https://www.codewars.com/kata/594633020a561e329a0000a2">↗</a></li>
         <li><a href="/kyu7/CountriesCapitalsForTriviaNight.sql">Countries Capitals for Trivia Night (SQL for Beginners #6)</a> - <a href="https://www.codewars.com/kata/5e5f09dc0a17be0023920f6f">↗</a></li>
         <li><a href="/kyu7/CreateAFunction.sql">SQL Basics: Create a FUNCTION</a> - <a href="https://www.codewars.com/kata/580fe518cefeff16d00000c0">↗</a></li>
+        <li><a href="/kyu7/CubeRootAndNaturalLog.sql">Easy SQL: Cube Root and Natural Log</a> - <a href="https://www.codewars.com/kata/594a6ad320ac16a54400007f">↗</a></li>
     </ol>
 </details>
 
