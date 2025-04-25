@@ -89,6 +89,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/CreateAFunction.sql">SQL Basics: Create a FUNCTION</a> - <a href="https://www.codewars.com/kata/580fe518cefeff16d00000c0">↗</a></li>
         <li><a href="/kyu7/CubeRootAndNaturalLog.sql">Easy SQL: Cube Root and Natural Log</a> - <a href="https://www.codewars.com/kata/594a6ad320ac16a54400007f">↗</a></li>
         <li><a href="/kyu7/CustomersWithAllOrdersUndelivered.sql">Customers with All Orders Undelivered</a> - <a href="https://www.codewars.com/kata/64c4d0011141cb003eca9e18">↗</a></li>
+        <li><a href="/kyu7/DamageMultipliers.sql">SQL with Pokemon: Damage Multipliers</a> - <a href="https://www.codewars.com/kata/5ab828bcedbcfc65ea000099">↗</a></li>
     </ol>
 </details>
 
