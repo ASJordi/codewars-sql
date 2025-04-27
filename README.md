@@ -91,6 +91,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/CustomersWithAllOrdersUndelivered.sql">Customers with All Orders Undelivered</a> - <a href="https://www.codewars.com/kata/64c4d0011141cb003eca9e18">↗</a></li>
         <li><a href="/kyu7/DamageMultipliers.sql">SQL with Pokemon: Damage Multipliers</a> - <a href="https://www.codewars.com/kata/5ab828bcedbcfc65ea000099">↗</a></li>
         <li><a href="/kyu7/DisemvowelTrolls.sql">Disemvowel Trolls</a> - <a href="https://www.codewars.com/kata/52fba66badcd10859f00097e">↗</a></li>
+        <li><a href="/kyu7/Disorder.sql">SQL: Disorder</a> - <a href="https://www.codewars.com/kata/59cb550486a6fd10b50000ad">↗</a></li>
     </ol>
 </details>
 
