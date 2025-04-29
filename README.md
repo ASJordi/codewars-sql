@@ -93,6 +93,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/DisemvowelTrolls.sql">Disemvowel Trolls</a> - <a href="https://www.codewars.com/kata/52fba66badcd10859f00097e">↗</a></li>
         <li><a href="/kyu7/Disorder.sql">SQL: Disorder</a> - <a href="https://www.codewars.com/kata/59cb550486a6fd10b50000ad">↗</a></li>
         <li><a href="/kyu7/EasyRegexExtraction.sql">SQL easy regex extraction</a> - <a href="https://www.codewars.com/kata/5c0ae69d5f72394e130025f6">↗</a></li>
+        <li><a href="/kyu7/ElvenWildcards.sql">SQL with LOTR: Elven Wildcards</a> - <a href="https://www.codewars.com/kata/5ad90fb688a0b74111000055">↗</a></li>
     </ol>
 </details>
 
