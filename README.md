@@ -95,6 +95,8 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/EasyRegexExtraction.sql">SQL easy regex extraction</a> - <a href="https://www.codewars.com/kata/5c0ae69d5f72394e130025f6">↗</a></li>
         <li><a href="/kyu7/ElvenWildcards.sql">SQL with LOTR: Elven Wildcards</a> - <a href="https://www.codewars.com/kata/5ad90fb688a0b74111000055">↗</a></li>
         <li><a href="/kyu7/ExtractDirectSubdirectories.sql">Extract Direct Subdirectories</a> - <a href="https://www.codewars.com/kata/653bd2c1355c3a1309f407f2">↗</a></li>
+        <li><a href="/kyu7/ExtractDirectSubdirectories.sql">Extract Direct Subdirectories</a> - <a href="https://www.codewars.com/kata/653bd2c1355c3a1309f407f2">↗</a></li>
+        <li><a href="/kyu7/ExtractingTheLastElementFromConcatenatedStrings.sql">Extracting the Last Element from Concatenated Strings</a> - <a href="https://www.codewars.com/kata/658e8be7dc8017c2574dd0b4">↗</a></li>
     </ol>
 </details>
 
