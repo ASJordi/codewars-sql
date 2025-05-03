@@ -98,6 +98,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/ExtractDirectSubdirectories.sql">Extract Direct Subdirectories</a> - <a href="https://www.codewars.com/kata/653bd2c1355c3a1309f407f2">↗</a></li>
         <li><a href="/kyu7/ExtractingTheLastElementFromConcatenatedStrings.sql">Extracting the Last Element from Concatenated Strings</a> - <a href="https://www.codewars.com/kata/658e8be7dc8017c2574dd0b4">↗</a></li>
         <li><a href="/kyu7/FilmsBySpecialFeatures1.sql">Filtering Films by Special Features in PostgreSQL: Part 1</a> - <a href="https://www.codewars.com/kata/645362d917686c000f88a8fe">↗</a></li>
+        <li><a href="/kyu7/FilmsBySpecialFeatures2.sql">Filtering Films by Special Features in PostgreSQL: Part 2</a> - <a href="https://www.codewars.com/kata/64536dc25d1ebb000fa7b9b3">↗</a></li>
     </ol>
 </details>
 
