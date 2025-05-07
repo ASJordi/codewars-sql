@@ -102,6 +102,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/FilmsBySpecialFeatures3.sql">Filtering Films by Special Features in PostgreSQL: Part 3</a> - <a href="https://www.codewars.com/kata/6456759b00c6791f4342bf18">↗</a></li>
         <li><a href="/kyu7/FindingProductsMatchingAllSelectedTags.sql">Finding Products Matching All Selected Tags</a> - <a href="https://www.codewars.com/kata/67741444c77444b19e8b5223">↗</a></li>
         <li><a href="/kyu7/FirstNormalForm.sql">First Normal Form</a> - <a href="https://www.codewars.com/kata/62b0da0e58e471000f28ce99">↗</a></li>
+        <li><a href="/kyu7/HelloSqlWorld.sql">Hello SQL World!</a> - <a href="https://www.codewars.com/kata/581283eb0a5fb13e06000020">↗</a></li>
     </ol>
 </details>
 
