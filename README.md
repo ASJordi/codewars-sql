@@ -106,6 +106,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/Inventory.sql">GROCERY STORE: Inventory</a> - <a href="https://www.codewars.com/kata/5a8eb3fb57c562110f0000a1">↗</a></li>
         <li><a href="/kyu7/InventoryExpansionQuery.sql">Inventory Expansion Query</a> - <a href="https://www.codewars.com/kata/64bbab6d5dd55b000feb5e10">↗</a></li>
         <li><a href="/kyu7/LeapYears.sql">Leap Years</a> - <a href="https://www.codewars.com/kata/526c7363236867513f0005ca">↗</a></li>
+        <li><a href="/kyu7/LengthBasedSelectWithLike.sql">BASICS: Length based SELECT with LIKE</a> - <a href="https://www.codewars.com/kata/5a8d94d3ba1bb569e5000198">↗</a></li>
     </ol>
 </details>
 
