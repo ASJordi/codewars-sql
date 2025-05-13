@@ -108,6 +108,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/LeapYears.sql">Leap Years</a> - <a href="https://www.codewars.com/kata/526c7363236867513f0005ca">↗</a></li>
         <li><a href="/kyu7/LengthBasedSelectWithLike.sql">BASICS: Length based SELECT with LIKE</a> - <a href="https://www.codewars.com/kata/5a8d94d3ba1bb569e5000198">↗</a></li>
         <li><a href="/kyu7/LoanEligibilityPart1.sql">Loan Eligibility: part 1</a> - <a href="https://www.codewars.com/kata/649ad25bda3714005dd89682">↗</a></li>
+        <li><a href="/kyu7/MakingAChangelog.sql">Making a changelog</a> - <a href="https://www.codewars.com/kata/5eaecb855179590011d2c020">↗</a></li>
     </ol>
 </details>
 
