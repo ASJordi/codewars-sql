@@ -109,6 +109,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/LengthBasedSelectWithLike.sql">BASICS: Length based SELECT with LIKE</a> - <a href="https://www.codewars.com/kata/5a8d94d3ba1bb569e5000198">↗</a></li>
         <li><a href="/kyu7/LoanEligibilityPart1.sql">Loan Eligibility: part 1</a> - <a href="https://www.codewars.com/kata/649ad25bda3714005dd89682">↗</a></li>
         <li><a href="/kyu7/MakingAChangelog.sql">Making a changelog</a> - <a href="https://www.codewars.com/kata/5eaecb855179590011d2c020">↗</a></li>
+        <li><a href="/kyu7/MathsWithStringManipulations.sql">SQL Basics: Maths with String Manipulations</a> - <a href="https://www.codewars.com/kata/594901ba44645fd7bd00005f">↗</a></li>
     </ol>
 </details>
 
