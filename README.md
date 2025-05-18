@@ -113,6 +113,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/MaximumMultiple.sql">Maximum Multiple</a> - <a href="https://www.codewars.com/kata/5aba780a6a176b029800041c">↗</a></li>
         <li><a href="/kyu7/MovingValues.sql">Easy SQL: Moving Values</a> - <a href="https://www.codewars.com/kata/594a389387a7c6a77a000005">↗</a></li>
         <li><a href="/kyu7/MultipleOccurrencesOfAWordApple.sql">Find Messages with Multiple Occurrences of a Word "Apple" 🍎</a> - <a href="https://www.codewars.com/kata/6532433d49d3ef6435de1928">↗</a></li>
+        <li><a href="/kyu7/NumberOfCountriesVisited.sql">Number of countries visited</a> - <a href="https://www.codewars.com/kata/66c71c893759d440748154f8">↗</a></li>
     </ol>
 </details>
 
