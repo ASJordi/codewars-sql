@@ -117,6 +117,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/NumberOfNewCustomersPerDate.sql">Number of New Customers per Date</a> - <a href="https://www.codewars.com/kata/64cb74a218f9120036411be9">↗</a></li>
         <li><a href="/kyu7/OrderRatioForEachProduct.sql">Order Ratio for Each Product</a> - <a href="https://www.codewars.com/kata/64b4eec61cefd8503e1a2fb3">↗</a></li>
         <li><a href="/kyu7/PaddingEncryption.sql">SQL: Padding Encryption</a> - <a href="https://www.codewars.com/kata/5943b797d8c9432eb7000066">↗</a></li>
+        <li><a href="/kyu7/Position.sql">SQL Basics - Position</a> - <a href="https://www.codewars.com/kata/59401e0e54a655a298000040">↗</a></li>
     </ol>
 </details>
 
