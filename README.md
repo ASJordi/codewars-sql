@@ -124,6 +124,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/RemovingUnion.sql">Refactoring SQL Queries: part 1 (removing UNION)</a> - <a href="https://www.codewars.com/kata/64c35f480c0548002150efd4">↗</a></li>
         <li><a href="/kyu7/RepeatAndReverse.sql">SQL Basics: Repeat and Reverse</a> - <a href="https://www.codewars.com/kata/59414360f5c3947364000070">↗</a></li>
         <li><a href="/kyu7/RightAndLeft.sql">SQL: Right and Left</a> - <a href="https://www.codewars.com/kata/5943a58f95d5f72cb900006a">↗</a></li>
+        <li><a href="/kyu7/SimpleGroupBy.sql">SQL Basics: Simple GROUP BY</a> - <a href="https://www.codewars.com/kata/58111f4ee10b5301a7000175">↗</a></li>
     </ol>
 </details>
 
