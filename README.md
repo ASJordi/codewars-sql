@@ -127,6 +127,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/SimpleGroupBy.sql">SQL Basics: Simple GROUP BY</a> - <a href="https://www.codewars.com/kata/58111f4ee10b5301a7000175">↗</a></li>
         <li><a href="/kyu7/SimpleJoin.sql">SQL Basics: Simple JOIN</a> - <a href="https://www.codewars.com/kata/5802e32dd8c944e562000020">↗</a></li>
         <li><a href="/kyu7/SimpleJoinWithCount.sql">SQL Basics: Simple JOIN with COUNT</a> - <a href="https://www.codewars.com/kata/580918e24a85b05ad000010c">↗</a></li>
+        <li><a href="/kyu7/SortingHatComparators.sql">SQL with Harry Potter: Sorting Hat Comparators</a> - <a href="https://www.codewars.com/kata/5abcf0f930488ff1a6000b66">↗</a></li>
     </ol>
 </details>
 
