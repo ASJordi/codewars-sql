@@ -128,6 +128,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/SimpleJoin.sql">SQL Basics: Simple JOIN</a> - <a href="https://www.codewars.com/kata/5802e32dd8c944e562000020">↗</a></li>
         <li><a href="/kyu7/SimpleJoinWithCount.sql">SQL Basics: Simple JOIN with COUNT</a> - <a href="https://www.codewars.com/kata/580918e24a85b05ad000010c">↗</a></li>
         <li><a href="/kyu7/SortingHatComparators.sql">SQL with Harry Potter: Sorting Hat Comparators</a> - <a href="https://www.codewars.com/kata/5abcf0f930488ff1a6000b66">↗</a></li>
+        <li><a href="/kyu7/SplittingAndListingUniqueCharactersFromAStringColumn.sql">Splitting and Listing Unique Characters from a String Column</a> - <a href="https://www.codewars.com/kata/65a699b3575593004c8011a8">↗</a></li>
     </ol>
 </details>
 
