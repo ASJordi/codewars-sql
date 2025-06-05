@@ -1,0 +1,4 @@
+SELECT n,
+    CAST((SELECT SUM(POWER(num, 3)) FROM GENERATE_SERIES(1, n) AS num) AS BIGINT) AS res
+FROM cubes
+ORDER BY n;
