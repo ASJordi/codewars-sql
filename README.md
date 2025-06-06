@@ -131,6 +131,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/SplittingAndListingUniqueCharactersFromAStringColumn.sql">Splitting and Listing Unique Characters from a String Column</a> - <a href="https://www.codewars.com/kata/65a699b3575593004c8011a8">↗</a></li>
         <li><a href="/kyu7/SumOfAngles.sql">Sum of angles</a> - <a href="https://www.codewars.com/kata/5a03b3f6a1c9040084001765">↗</a></li>
         <li><a href="/kyu7/SumOfCubes.sql">Sum of Cubes</a> - <a href="https://www.codewars.com/kata/59a8570b570190d313000037">↗</a></li>
+        <li><a href="/kyu7/SumOfOddNumbers.sql">Sum of odd numbers</a> - <a href="https://www.codewars.com/kata/55fd2d567d94ac3bc9000064">↗</a></li>
     </ol>
 </details>
 
