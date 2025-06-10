@@ -135,7 +135,8 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/SumOfTriangularNumbers.sql">Sum of Triangular Numbers</a> - <a href="https://www.codewars.com/kata/580878d5d27b84b64c000b51">↗</a></li>
         <li><a href="/kyu7/SupportLocalProducts.sql">GROCERY STORE: Support Local Products</a> - <a href="https://www.codewars.com/kata/5a8ed96bfd8c066e7f00011a">↗</a></li>
         <li><a href="/kyu7/ThinkingAboutJoins.sql">SQL with Sailor Moon: Thinking about JOINs...</a> - <a href="https://www.codewars.com/kata/5ab7a736edbcfc8e62000007">↗</a></li>
-        <li><a href="/kyu7/ThirdOldestBackendDeveloper.sql">Third Oldest Backend Developer</a> - <a href=" https://www.codewars.com/kata/6499406b1e5b99005b673d06">↗</a></li>
+        <li><a href="/kyu7/ThirdOldestBackendDeveloper.sql">Third Oldest Backend Developer</a> - <a href="https://www.codewars.com/kata/6499406b1e5b99005b673d06">↗</a></li>
+        <li><a href="/kyu7/TotalWins.sql">SQL with Street Fighter: Total Wins</a> - <a href="https://www.codewars.com/kata/5ac698cdd325ad18a3000170">↗</a></li>
     </ol>
 </details>
 
