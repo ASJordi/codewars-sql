@@ -138,6 +138,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/ThirdOldestBackendDeveloper.sql">Third Oldest Backend Developer</a> - <a href="https://www.codewars.com/kata/6499406b1e5b99005b673d06">↗</a></li>
         <li><a href="/kyu7/TotalWins.sql">SQL with Street Fighter: Total Wins</a> - <a href="https://www.codewars.com/kata/5ac698cdd325ad18a3000170">↗</a></li>
         <li><a href="/kyu7/TrimmingTheField.sql">SQL Basics - Trimming the Field</a> - <a href="https://www.codewars.com/kata/59401c25c15cbeb58d000028">↗</a></li>
+        <li><a href="/kyu7/Truncating.sql">SQL Basics: Truncating</a> - <a href="https://www.codewars.com/kata/594a8fa5a2db9e5f290000c3">↗</a></li>
     </ol>
 </details>
 
