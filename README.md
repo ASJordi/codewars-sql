@@ -140,6 +140,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/TrimmingTheField.sql">SQL Basics - Trimming the Field</a> - <a href="https://www.codewars.com/kata/59401c25c15cbeb58d000028">↗</a></li>
         <li><a href="/kyu7/Truncating.sql">SQL Basics: Truncating</a> - <a href="https://www.codewars.com/kata/594a8fa5a2db9e5f290000c3">↗</a></li>
         <li><a href="/kyu7/UpAndDown.sql">Up and Down</a> - <a href="https://www.codewars.com/kata/595a3ba3843b0cbf8e000004">↗</a></li>
+        <li><a href="/kyu7/VowelCount.sql">Vowel Count</a> - <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3">↗</a></li>
     </ol>
 </details>
 
