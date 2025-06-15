@@ -143,6 +143,12 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu7/VowelCount.sql">Vowel Count</a> - <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3">↗</a></li>
     </ol>
 </details>
+<details>
+    <summary>6 kyu</summary>
+    <ol type="1">
+        <li><a href="/kyu6/CreateAFunctionDates.sql">SQL Basics: Create a FUNCTION (DATES)</a> - <a href="https://www.codewars.com/kata/5811010104adbba24b0002fe">↗</a></li>
+    </ol>
+</details>
 
 ## Contribuciones :handshake:
 
