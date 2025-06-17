@@ -148,6 +148,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
     <ol type="1">
         <li><a href="/kyu6/CreateAFunctionDates.sql">SQL Basics: Create a FUNCTION (DATES)</a> - <a href="https://www.codewars.com/kata/5811010104adbba24b0002fe">↗</a></li>
         <li><a href="/kyu6/EvenFibonacciSum.sql">Even Fibonacci Sum</a> - <a href="https://www.codewars.com/kata/55688b4e725f41d1e9000065">↗</a></li>
+        <li><a href="/kyu6/FixTheJoin.sql">SQL Bug Fixing: Fix the JOIN</a> - <a href="https://www.codewars.com/kata/580fb94e12b34dd1c40001f0">↗</a></li>
     </ol>
 </details>
 
