@@ -152,6 +152,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu6/MonstersUsingCase.sql">SQL Basics - Monsters using CASE</a> - <a href="https://www.codewars.com/kata/593ef0e98b90525e090000b9">↗</a></li>
         <li><a href="/kyu6/SelectPrimeNumbers.sql">SELECT prime numbers</a> - <a href="https://www.codewars.com/kata/59be9f425227ddd60c00003b">↗</a></li>
         <li><a href="/kyu6/SimpleExists.sql">SQL Basics: Simple EXISTS</a> - <a href="https://www.codewars.com/kata/58113a64e10b53ec36000293">↗</a></li>
+        <li><a href="/kyu6/SimpleFullTextSearch.sql">SQL Basics: Simple FULL TEXT SEARCH</a> - <a href="https://www.codewars.com/kata/581676828906324b8b00059e">↗</a></li>
     </ol>
 </details>
 
