@@ -155,6 +155,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu6/SimpleFullTextSearch.sql">SQL Basics: Simple FULL TEXT SEARCH</a> - <a href="https://www.codewars.com/kata/581676828906324b8b00059e">↗</a></li>
         <li><a href="/kyu6/SimpleHaving.sql">SQL Basics: Simple HAVING</a> - <a href="https://www.codewars.com/kata/58164ddf890632ce00000220">↗</a></li>
         <li><a href="/kyu6/SimpleIn.sql">SQL Basics: Simple IN</a> - <a href="https://www.codewars.com/kata/58113c03009b4fcc66000d29">↗</a></li>
+        <li><a href="/kyu6/SimpleJoinRank.sql">SQL Basics: Simple JOIN and RANK</a> - <a href="https://www.codewars.com/kata/58094559c47d323ebd000035">↗</a></li>
     </ol>
 </details>
 
