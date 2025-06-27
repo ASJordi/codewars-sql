@@ -158,6 +158,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu6/SimpleJoinRank.sql">SQL Basics: Simple JOIN and RANK</a> - <a href="https://www.codewars.com/kata/58094559c47d323ebd000035">↗</a></li>
         <li><a href="/kyu6/SimpleNullHandling.sql">SQL Basics: Simple NULL handling</a> - <a href="https://www.codewars.com/kata/5811315e04adbbdb5000050e">↗</a></li>
         <li><a href="/kyu6/SimpleTableTotaling.sql">SQL Basics: Simple table totaling</a> - <a href="https://www.codewars.com/kata/5809575e166583acfa000083">↗</a></li>
+        <li><a href="/kyu6/SimpleUnionAll.sql">SQL Basics: Simple UNION ALL</a> - <a href="https://www.codewars.com/kata/58112f8004adbbdb500004fe">↗</a></li>
     </ol>
 </details>
 
