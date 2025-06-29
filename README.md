@@ -160,6 +160,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu6/SimpleTableTotaling.sql">SQL Basics: Simple table totaling</a> - <a href="https://www.codewars.com/kata/5809575e166583acfa000083">↗</a></li>
         <li><a href="/kyu6/SimpleUnionAll.sql">SQL Basics: Simple UNION ALL</a> - <a href="https://www.codewars.com/kata/58112f8004adbbdb500004fe">↗</a></li>
         <li><a href="/kyu6/SimpleWith.sql">SQL Basics: Simple WITH</a> - <a href="https://www.codewars.com/kata/5811501c2d35672d4f000146">↗</a></li>
+        <li><a href="/kyu6/TheMostPopularProduct.sql">The Most Popular Product</a> - <a href="https://www.codewars.com/kata/649d368a27e215c473e220ba">↗</a></li>
     </ol>
 </details>
 
