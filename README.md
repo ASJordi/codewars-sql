@@ -163,6 +163,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu6/TheMostPopularProduct.sql">The Most Popular Product</a> - <a href="https://www.codewars.com/kata/649d368a27e215c473e220ba">↗</a></li>
         <li><a href="/kyu6/Top10CustomersByTotalPaymentsAmount.sql">Top 10 customers by total payments amount</a> - <a href="https://www.codewars.com/kata/580d08b5c049aef8f900007c">↗</a></li>
         <li><a href="/kyu6/Totaling.sql">SQL Bug Fixing: Fix the QUERY - Totaling</a> - <a href="https://www.codewars.com/kata/582cba7d3be8ce3a8300007c">↗</a></li>
+        <li><a href="/kyu6/YoungestTeamMembers.sql">Youngest Team Members</a> - <a href="https://www.codewars.com/kata/6492b17a7c08e4005790053e">↗</a></li>
     </ol>
 </details>
 
