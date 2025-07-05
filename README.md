@@ -170,6 +170,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
     <summary>5 kyu</summary>
     <ol type="1">
         <li><a href="/kyu5/CalculatingRunningTotal.sql">Calculating Running Total</a> - <a href="https://www.codewars.com/kata/589cf45835f99b2909000115">↗</a></li>
+        <li><a href="/kyu5/FindAllMoviesTwoActorsCastInTogether.sql">Relational division: Find all movies two actors cast in together</a> - <a href="https://www.codewars.com/kata/5817b124e7f4576fd00020a2">↗</a></li>
     </ol>
 </details>
 
