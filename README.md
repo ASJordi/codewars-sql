@@ -166,6 +166,12 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
         <li><a href="/kyu6/YoungestTeamMembers.sql">Youngest Team Members</a> - <a href="https://www.codewars.com/kata/6492b17a7c08e4005790053e">↗</a></li>
     </ol>
 </details>
+<details>
+    <summary>5 kyu</summary>
+    <ol type="1">
+        <li><a href="/kyu5/CalculatingRunningTotal.sql">Calculating Running Total</a> - <a href="https://www.codewars.com/kata/589cf45835f99b2909000115">↗</a></li>
+    </ol>
+</details>
 
 ## Contribuciones :handshake:
 
