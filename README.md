@@ -171,6 +171,7 @@ Los ejercicios se organizan en carpetas según su nivel de dificultad. Dentro de
     <ol type="1">
         <li><a href="/kyu5/CalculatingRunningTotal.sql">Calculating Running Total</a> - <a href="https://www.codewars.com/kata/589cf45835f99b2909000115">↗</a></li>
         <li><a href="/kyu5/FindAllMoviesTwoActorsCastInTogether.sql">Relational division: Find all movies two actors cast in together</a> - <a href="https://www.codewars.com/kata/5817b124e7f4576fd00020a2">↗</a></li>
+        <li><a href="/kyu5/GroupByDay.sql">SQL Basics: Group By Day</a> - <a href="https://www.codewars.com/kata/5811597e9d278beb04000038">↗</a></li>
     </ol>
 </details>
 
